@@ -8,3 +8,6 @@ Microsoft Word have a lot of facilities for drawing shapes. But using these faci
 <img width="611" alt="AHP" src="https://user-images.githubusercontent.com/70744035/100551667-6623ba00-3297-11eb-971b-f98fa57f6553.png">
 
 
+<img width="295" alt="Sin-Cos" src="https://user-images.githubusercontent.com/70744035/100551699-ae42dc80-3297-11eb-8224-1e8e10610bef.png">
+
+
