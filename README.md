@@ -16,3 +16,7 @@ Microsoft Word have a lot of facilities for drawing shapes. But using these faci
 
 
 <img width="352" alt="Spiral" src="https://user-images.githubusercontent.com/70744035/100551854-a20b4f00-3298-11eb-9d2e-0fb9a7254446.png">
+
+
+[Manual.pdf](https://github.com/AlirezaNaser/SimpleDraw-Add-in/files/5647652/Manual.pdf)
+
