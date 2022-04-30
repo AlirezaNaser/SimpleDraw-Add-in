@@ -13,7 +13,7 @@ Telegram channel: @SimpleDrawAddin
 
 
 
-<img width="781" alt="SimpleDrawMenu" src="https://user-images.githubusercontent.com/70744035/100551228-856d1800-3294-11eb-8ab2-be79ebf1ed8c.png">
+<img width="798" alt="SimpleDrawRibbon" src="https://user-images.githubusercontent.com/70744035/166116703-5a6064c1-d131-4f22-87f0-4e3fdac731e1.png">
 
 
 
