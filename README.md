@@ -6,6 +6,9 @@ Follow us at Telegram for last updates and manuals.
 
 Telegram channel: @SimpleDrawAddin
 
+Download:
+https://github.com/AlirezaNaser/SimpleDraw-Add-in/blob/043e3fe860f219025602f3ddc3f36c0839f9d421/SimpleDraw.dotm
+
 [Manual Ver 4.1.pdf](https://github.com/AlirezaNaser/SimpleDraw-Add-in/files/8597540/Manual.Ver.4.1.pdf)
 
 
