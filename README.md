@@ -6,7 +6,7 @@ Follow us at Telegram for last updates and manuals.
 
 Telegram channel: @SimpleDrawAddin
 
-
+[Manual Ver 4.1.pdf](https://github.com/AlirezaNaser/SimpleDraw-Add-in/files/8597540/Manual.Ver.4.1.pdf)
 
 
 
@@ -28,5 +28,5 @@ Telegram channel: @SimpleDrawAddin
 <img width="352" alt="Spiral" src="https://user-images.githubusercontent.com/70744035/100551854-a20b4f00-3298-11eb-9d2e-0fb9a7254446.png">
 
 
-[Manual Ver 4.1.pdf](https://github.com/AlirezaNaser/SimpleDraw-Add-in/files/8597540/Manual.Ver.4.1.pdf)
+
 
